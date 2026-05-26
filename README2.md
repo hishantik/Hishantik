@@ -1,131 +1,11 @@
 <div align="center">
 
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+
+![header](header.svg)
+
 <!-- ═══════════════════════ NEON CIRCUIT ANIMATION ═══════════════════════ -->
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%">
-  <defs>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#64D8CB;stop-opacity:0">
-        <animate attributeName="stop-opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" style="stop-color:#64D8CB;stop-opacity:1">
-        <animate attributeName="stop-opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" style="stop-color:#64D8CB;stop-opacity:0">
-        <animate attributeName="stop-opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#C77DFF;stop-opacity:0">
-        <animate attributeName="stop-opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" style="stop-color:#C77DFF;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#C77DFF;stop-opacity:0">
-        <animate attributeName="stop-opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    <radialGradient id="nodeGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#64D8CB;stop-opacity:0.8"/>
-      <stop offset="100%" style="stop-color:#64D8CB;stop-opacity:0"/>
-    </radialGradient>
-  </defs>
-
-  <!-- Background grid dots -->
-  <g opacity="0.15">
-    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="10" cy="10" r="0.8" fill="#64D8CB"/>
-    </pattern>
-    <rect width="800" height="200" fill="url(#dots)"/>
-  </g>
-
-  <!-- Circuit paths -->
-  <g fill="none" stroke-width="1.5" filter="url(#glow)">
-    <!-- Path 1: horizontal wave -->
-    <path d="M0,100 Q100,60 200,100 T400,100 T600,100 T800,100" stroke="url(#grad1)" opacity="0.7">
-      <animate attributeName="d" values="M0,100 Q100,60 200,100 T400,100 T600,100 T800,100;M0,100 Q100,140 200,100 T400,100 T600,100 T800,100;M0,100 Q100,60 200,100 T400,100 T600,100 T800,100" dur="6s" repeatCount="indefinite"/>
-    </path>
-    <!-- Path 2: upper circuit -->
-    <path d="M50,50 L150,50 L170,70 L300,70 L320,50 L450,50 L470,70 L600,70 L620,50 L750,50" stroke="#64D8CB" opacity="0.4" stroke-dasharray="8,4">
-      <animate attributeName="stroke-dashoffset" values="0;24" dur="2s" repeatCount="indefinite"/>
-    </path>
-    <!-- Path 3: lower circuit -->
-    <path d="M50,150 L180,150 L200,130 L350,130 L370,150 L500,150 L520,130 L650,130 L670,150 L750,150" stroke="url(#grad2)" opacity="0.4" stroke-dasharray="8,4">
-      <animate attributeName="stroke-dashoffset" values="0;-24" dur="2s" repeatCount="indefinite"/>
-    </path>
-    <!-- Vertical connectors -->
-    <line x1="200" y1="70" x2="200" y2="130" stroke="#C77DFF" opacity="0.3" stroke-dasharray="4,4">
-      <animate attributeName="stroke-dashoffset" values="0;16" dur="1.5s" repeatCount="indefinite"/>
-    </line>
-    <line x1="400" y1="50" x2="400" y2="150" stroke="#64D8CB" opacity="0.3" stroke-dasharray="4,4">
-      <animate attributeName="stroke-dashoffset" values="0;16" dur="1.5s" repeatCount="indefinite"/>
-    </line>
-    <line x1="600" y1="70" x2="600" y2="130" stroke="#C77DFF" opacity="0.3" stroke-dasharray="4,4">
-      <animate attributeName="stroke-dashoffset" values="0;16" dur="1.5s" repeatCount="indefinite"/>
-    </line>
-  </g>
-
-  <!-- Pulsing nodes -->
-  <g filter="url(#glow)">
-    <circle cx="200" cy="100" r="4" fill="#64D8CB">
-      <animate attributeName="r" values="4;8;4" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="400" cy="100" r="4" fill="#C77DFF">
-      <animate attributeName="r" values="4;8;4" dur="3s" begin="1s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;0.4;1" dur="3s" begin="1s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="600" cy="100" r="4" fill="#64D8CB">
-      <animate attributeName="r" values="4;8;4" dur="3s" begin="2s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;0.4;1" dur="3s" begin="2s" repeatCount="indefinite"/>
-    </circle>
-    <!-- Small junction nodes -->
-    <circle cx="100" cy="80" r="2.5" fill="#C77DFF" opacity="0.6">
-      <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="300" cy="70" r="2.5" fill="#64D8CB" opacity="0.6">
-      <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" begin="0.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="500" cy="130" r="2.5" fill="#C77DFF" opacity="0.6">
-      <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" begin="1s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="700" cy="100" r="2.5" fill="#64D8CB" opacity="0.6">
-      <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" begin="1.5s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <!-- Floating particles -->
-  <g fill="#64D8CB" opacity="0.5">
-    <circle cx="0" cy="100" r="1.5">
-      <animate attributeName="cx" values="0;800" dur="8s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="100;80;120;100" dur="8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="0" cy="100" r="1" fill="#C77DFF">
-      <animate attributeName="cx" values="0;800" dur="10s" begin="2s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="100;120;80;100" dur="10s" begin="2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="800" cy="100" r="1.5">
-      <animate attributeName="cx" values="800;0" dur="9s" begin="1s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="100;90;110;100" dur="9s" begin="1s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="800" cy="100" r="1" fill="#C77DFF">
-      <animate attributeName="cx" values="800;0" dur="11s" begin="3s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="100;110;90;100" dur="11s" begin="3s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <!-- Center text -->
-  <text x="400" y="105" text-anchor="middle" font-family="monospace" font-size="14" fill="#64D8CB" opacity="0.8" filter="url(#glow)">
-    &lt;/&gt; building the future
-    <animate attributeName="opacity" values="0.8;0.4;0.8" dur="4s" repeatCount="indefinite"/>
-  </text>
-</svg>
 
 <br>
 
@@ -245,7 +125,7 @@
 <br>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats-psi-steel.vercel.app/api/top-langs/?username=hishantik&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=64D8CB&text_color=c9d1d9&langs_count=8" width="40%"/>
+<!-- <img src="https://github-readme-stats-psi-steel.vercel.app/api/top-langs/?username=hishantik&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=64D8CB&text_color=c9d1d9&langs_count=8" width="40%"/> -->
 
 <br>
 <br>
@@ -287,7 +167,7 @@
 
 <details>
 <summary>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=60&section=header&text=%E2%8F%B1%EF%B8%8F%20WakaTime%20Stats&fontSize=22&fontColor=ffffff&descAlignY=38" width="300"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=60&section=header&text=%E2%8F%B1%EF%B8%8F%20WakaTime%20Stats&fontSize=42&fontColor=ffffff&descAlignY=38" width="300"/>
 </summary>
 
 <br>
