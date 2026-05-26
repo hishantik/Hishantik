@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://dev.to/feed/hishantik"
+          template: "<tr><th>$title</th></tr><tr><td><a href=\"$url\">Read More</a></td></tr>"
