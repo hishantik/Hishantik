@@ -119,19 +119,10 @@
 
 <br>
 
-<!-- Top Languages -->
-<!-- <img src="https://github-readme-stats-psi-steel.vercel.app/api/top-langs/?username=hishantik&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=64D8CB&text_color=c9d1d9&langs_count=8" width="40%"/> -->
+<!-- TopLanguages -->
 
-<br>
-<br>
 
-<!-- Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hishantik&theme=tokyonight" width="80%"/>
-<br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hishantik&theme=tokyonight" width="40%"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hishantik&theme=tokyonight" width="40%"/>
-
 </div>
 
 <br>
@@ -150,7 +141,6 @@
 <!-- END_SECTION:activity -->
 
   
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hishantik&bg_color=0d1117&color=64D8CB&line=64D8CB&point=ffffff&area_color=64D8CB&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/> -->
 
 <br>
 
@@ -258,7 +248,10 @@ Android                  3 hrs 10 mins       ███████████�
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=100&section=header&text=%F0%9F%93%88%20Anilist%20Activity&fontSize=32&fontColor=ffffff&descAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=100&section=header&text=%F0%9F%8E%AC%20Anilist%20Activity&fontSize=32&fontColor=ffffff&descAlignY=40" width="100%"/>
+
+
+<img src="https://gist.githubusercontent.com/hishantik/836476e9ec3612070f37a460750c61ff/raw/420735afbeb3b25533dcb75820f2486985900133/metrics.plugin.anilist.svg"/>
 
 <!-- ANILIST_ACTIVITY:start -->
 

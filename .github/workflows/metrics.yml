@@ -213,32 +213,6 @@ jobs:
       #    plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
       #    plugin_stargazers_worldmap_sample: 200
 
-      - name: Latest tweets including attachments
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.tweets.attachments.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-          plugin_tweets_attachments: yes
-          plugin_tweets_user: sarkar_234
-          plugin_tweets_limit: 1
-
-      - name: Latest tweets
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.tweets.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-          plugin_tweets_user: sarkar_234
-
       - name: LeetCode
         uses: lowlighter/metrics@latest
         with:
@@ -263,7 +237,7 @@ jobs:
           plugin_posts: yes
           plugin_posts_source: dev.to
           plugin_posts_limit: 2
-          plugin_posts_user: sarkar_234
+          plugin_posts_user: hishantik
           plugin_posts_descriptions: yes
           plugin_posts_covers: yes
 
@@ -333,7 +307,7 @@ jobs:
           committer_gist: ${{ secrets.GIST }}
           plugin_lines: yes
           plugin_lines_sections: repositories, history
-          plugin_lines_repositories_limit: 2
+          plugin_lines_repositories_limit: 5
           plugin_lines_history_limit: 1
 
       - name: Comment reactions
@@ -383,7 +357,7 @@ jobs:
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_repositories: yes
-          plugin_repositories_featured: hishantik/openAI-shell-cli,hishantik/nativeProject
+          plugin_repositories_featured: hishantik/anilix,hishantik/render.nvim
 
       # - name: WakaTime
       #   uses: lowlighter/metrics@latest
