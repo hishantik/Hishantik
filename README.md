@@ -1,272 +1,315 @@
-<p align="center">
-  <a href="https://github.com/Hishantik">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+!;I+build+things+for+the+web;Open+Source+Enthusiast;Linux+Lover+%F0%9F%90%A7" alt="Typing SVG">
-  </a>
-</p>
+<div align="center">
 
-<h1 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme.vercel.fyi/api/welcome?name=Hishantik&theme=dark">
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:58A6FF,100:8B5CF6&height=200&section=header&text=Hishantik%20Sarkar&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Developer&descAlignY=60&descAlign=60&reversal=false&rotation=0" alt="Header">
-  </picture>
-</h1>
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 
-<p align="center">
-  <a href="https://github.com/Hishantik">
-    <img src="https://komarev.com/ghpvc/?username=Hishantik&color=58A6FF&style=flat-square" alt="Profile Views">
-  </a>
-  <a href="https://github.com/Hishantik?tab=followers">
-    <img src="https://img.shields.io/github/followers/Hishantik?label=Followers&style=for-the-badge&logo=github&color=8B5CF6" alt="Followers">
-  </a>
-  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Pronouns">
-</p>
+![header](./assets/header.svg)
 
----
+<!-- ═══════════════════════ NEON CIRCUIT ANIMATION ═══════════════════════ -->
 
-## <img src="https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif" width="40" align="center"> About Me
 
-<table>
-  <tr>
-    <td width="60%">
-      <p>
-        <strong>Hello there! I'm Hishantik Sarkar</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-      </p>
-      <ul>
-        <li>🚀 Aspiring Software Developer & Tech Enthusiast</li>
-        <li>💻 Passionate about Linux, Open Source & Cloud Technologies</li>
-        <li>🎮 Gamer | Anime & Manga Lover | Movie Buff</li>
-        <li>✈️ Traveler | Exploring the world one line of code at a time</li>
-        <li>📚 Currently learning advanced system architecture & distributed systems</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif">
-        <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="280" alt="Coding GIF">
-      </picture>
-    </td>
-  </tr>
-</table>
+<br>
 
----
+<!-- ═══════════════════════ NAME + TITLE ═══════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTkJt1e/giphy.gif" width="35" align="center"> Tech Stack & Tools
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=180&section=header&text=Hishantik%20Sarkar&fontSize=70&fontColor=ffffff&desc=&descSize=20&descAlignY=35&animation=fadeIn" width="100%"/>
 
-### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-</p>
+<br>
 
-### Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-</p>
+<!-- ═══════════════════════ TYPING INTRO ═══════════════════════ -->
 
-### Backend & Cloud
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=64D8CB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=const+developer+%3D+%7B%0A++name%3A+%22Hishantik%22%2C%0A++passion%3A+%22building+cool+things%22%0A%7D%3B" alt="Typing Intro" />
+</a>
 
-### Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
-</p>
+<br>
 
----
+<!-- ═══════════════════════ PROFILE IMAGE ═══════════════════════ -->
 
-## <img src="https://media.giphy.com/media/jJzUxNbZgPmAD74Rkz/giphy.gif" width="35" align="center"> GitHub Stats
+<img src="https://images.weserv.nl/?url=https://gist.github.com/user-attachments/assets/ba66a3db-66fd-48dc-bce2-667e547ed13a?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" width="160" style="border-radius:50%;border:3px solid #64D8CB;box-shadow:0 0 30px rgba(100,216,203,0.3)"/>
+
+<br>
+<br>
+
+</div>
+
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+
+<div align="center">
+
+```diff
++ Hey there! I'm Hishantik Sarkar — welcome to my corner of GitHub.
+```
+
+</div>
 
 <table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/Hishantik/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hishantik&count_private=true&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=8B5CF6&text_color=8B949E&bg_color=0d1117&custom_title=GitHub+Stats" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Hishantik/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hishantik&layout=compact&theme=dark&hide_border=true&title_color=58A6FF&text_color=8B949E&bg_color=0d1117" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/Hishantik">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hishantik&theme=dark" alt="Profile Summary" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Hishantik">
-        <img src="https://streak-stats.demolab.com?user=Hishantik&theme=dark&hide_border=true&fire=58A6FF&ring=8B5CF6&currStreakNum=58A6FF&sideNums=8B949E&background=0d1117" alt="GitHub Streak" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Hishantik">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hishantik&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=8B5CF6&text_color=8B949E&bg_color=0d1117" alt="GitHub Stats" />
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### About Me
+
+- **Aspiring Software Developer** passionate about building things that matter
+- Exploring **Linux**, **Cloud**, and **Open Source** ecosystems
+- Gamer, anime lover, and someone who believes good code tells a story
+- Currently learning, building, and breaking things in the best way
+
+</td>
+<td width="50%">
+
+### What I Do
+
+- Full-stack web development with **React** & **Node.js**
+- Systems work across **Linux**, **Windows**, **Mac**
+- Containerization & cloud with **Docker** & **AWS**
+- Writing about tech on **Dev.to** & exploring new stacks
+
+</td>
+</tr>
 </table>
 
----
+<br>
 
-## <img src="https://media.giphy.com/media/iI8289uJ2U2sI/giphy.gif" width="35" align="center"> Contribution Graph
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
-<p align="center">
-  <a href="https://github.com/Hishantik">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hishantik&theme=github-dark&hide_border=true&line=58A6FF&point=8B5CF6&area=true&color=8B5CF6&area_color=58A6FF&title_color=58A6FF&bg_color=0d1117" alt="Contribution Graph" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Hishantik">
-    <img src="https://raw.githubusercontent.com/Hishantik/Hishantik/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=100&section=header&text=%F0%9F%94%A7%20Tech%20Arsenal&fontSize=32&fontColor=ffffff&descAlignY=40" width="100%"/>
 
----
+<br>
+<br>
 
-## <img src="https://media.giphy.com/media/l4FGIYByFBahEhyWc/giphy.gif" width="35" align="center"> GitHub Trophies
+<!-- Languages -->
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hishantik&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7&title=Commit,Stars,Followers,Issues,PR,Repository,MultiLanguage" alt="GitHub Trophies" />
-  </a>
-</p>
+<br>
 
----
+<!-- Frameworks & Tools -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
 
-## <img src="https://media.giphy.com/media/dWcsB6ygaFn6EaeCSv/giphy.gif" width="35" align="center"> Coding Stats (WakaTime)
+<br>
+<br>
+
+<!-- Language depth chart -->
+<img width="100%" src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/metrics.plugin.languages.indepth.svg" />
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=100&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=32&fontColor=ffffff&descAlignY=40" width="100%"/>
+
+<br>
+<br>
+
+<!-- Stats Cards Row -->
+<img src="https://github-readme-stats-psi-steel.vercel.app/api?username=hishantik&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=64D8CB&icon_color=64D8CB&text_color=c9d1d9&ring_color=64D8CB&include_all_commits=true&count_private=true" width="49%"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hishantik&theme=tokyonight&background=0d1117&hide_border=true&ring=64D8CB&fire=64D8CB&currStreakLabel=64D8CB&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%"/>
+
+<br>
+
+<!-- Top Languages -->
+<!-- <img src="https://github-readme-stats-psi-steel.vercel.app/api/top-langs/?username=hishantik&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=64D8CB&text_color=c9d1d9&langs_count=8" width="40%"/> -->
+
+<br>
+<br>
+
+<!-- Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hishantik&theme=tokyonight" width="80%"/>
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hishantik&theme=tokyonight" width="40%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hishantik&theme=tokyonight" width="40%"/>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════ CONTRIBUTION GRAPH ═══════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=100&section=header&text=%F0%9F%93%88%20Activity%20Graph&fontSize=32&fontColor=ffffff&descAlignY=40" width="100%"/>
+
+<br>
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hishantik&bg_color=0d1117&color=64D8CB&line=64D8CB&point=ffffff&area_color=64D8CB&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+
+<br>
+
+<!-- Contribution Calendar -->
+<img src="https://gist.githubusercontent.com/Hishantik/836476e9ec3612070f37a460750c61ff/raw/dddb51b7869dd2d45c5142038d5be95d6d932f12/metrics.plugin.isocalendar.fullyear.svg" width="95%"/>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════ WAKATIME ═══════════════════════ -->
+
+<div align="center">
 
 <details>
-  <summary><strong>Click to view my coding activity</strong> <img src="https://media.giphy.com/media/xaOcXvNAoLMXs/giphy.gif" width="20"></summary>
-  <br>
-  
-  <!--START_SECTION:waka-->
-  **I'm a Night 🦉**
-  
-  ```text
-  🌞 Morning                93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.05% 
-  🌆 Daytime                166 commits         ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-  🌃 Evening                291 commits         ███████████░░░░░░░░░░░░░░   43.96% 
-  🌙 Night                  112 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92% 
-  ```
-  
-  📅 **I'm Most Productive on Monday** 
-  
-  ```text
-  Monday                   125 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88% 
-  Tuesday                  45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.80% 
-  Wednesday                109 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
-  Thursday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85% 
-  Friday                   109 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
-  Saturday                 97 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.65% 
-  Sunday                   125 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88% 
-  ```
-  <!--END_SECTION:waka-->
+<summary>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=60&section=header&text=%E2%8F%B1%EF%B8%8F%20WakaTime%20Stats&fontSize=42&fontColor=ffffff&descAlignY=38" width="300"/>
+</summary>
+
+<br>
+
+<!--START_SECTION:waka-->
+**I'm a Night 🦉**
+
+```text
+🌞 Morning                93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.05 %
+🌆 Daytime                166 commits         ██████░░░░░░░░░░░░░░░░░░░   25.08 %
+🌃 Evening                291 commits         ███████████░░░░░░░░░░░░░░   43.96 %
+🌙 Night                  112 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 %
+```
+
+📅 **I'm Most Productive on Monday**
+
+```text
+Monday                   125 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 %
+Tuesday                  45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+Wednesday                109 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
+Thursday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+Friday                   109 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
+Saturday                 97 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.65 %
+Sunday                   125 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 %
+```
+
+📊 **This Week I Spent My Time On**
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages:
+No Activity Tracked This Week
+
+🔥 Editors:
+No Activity Tracked This Week
+
+💻 Operating System:
+No Activity Tracked This Week
+```
+<!--END_SECTION:waka-->
+
 </details>
 
----
+</div>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35" align="center"> Featured Projects
+<br>
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/Hishantik">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hishantik&repo=Hishantik&theme=dark&hide_border=true&title_color=58A6FF&icon_color=8B5CF6&text_color=8B949E&bg_color=0d1117&show_owner=true" alt="Profile Repo" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Hishantik">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hishantik&repo=metrics&theme=dark&hide_border=true&title_color=58A6FF&icon_color=8B5CF6&text_color=8B949E&bg_color=0d1117&show_owner=true" alt="Metrics Repo" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- ═══════════════════════ BLOGS ═══════════════════════ -->
 
----
+<div align="center">
 
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35" align="center"> Latest Blog Posts
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=100&section=header&text=%F0%9F%93%9D%20Latest%20Blog%20Posts&fontSize=32&fontColor=ffffff&descAlignY=40" width="100%"/>
+
+<br>
+<br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Complete Guide to Networking on Linux Systems for File and Data Sharing](https://dev.to/hishantik/a-complete-guide-to-networking-on-linux-systems-for-file-and-data-sharing-126f)
-- [Setting Up Termux for Web Development: A Complete Guide](https://dev.to/hishantik/setting-up-termux-for-web-development-a-complete-guide-jal)
-- [The Complete Guide to Linux Gaming: Setting Up Wine, Proton, and Dependencies](https://dev.to/hishantik/gaming-on-linux-using-wineproton-with-dxvk-a-complete-guide-2mh6)
+<table>
+<tr>
+<td>
+
+**[A Complete Guide to Networking on Linux Systems for File and Data Sharing](https://dev.to/hishantik/a-complete-guide-to-networking-on-linux-systems-for-file-and-data-sharing-126f)**
+
+> Deep dive into Linux networking for seamless file and data sharing across systems.
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[Setting Up Termux for Web Development: A Complete Guide](https://dev.to/hishantik/setting-up-termux-for-web-development-a-complete-guide-jal)**
+
+> Turn your Android into a full web development environment with Termux.
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[The Complete Guide to Linux Gaming: Setting Up Wine, Proton, and Dependencies](https://dev.to/hishantik/gaming-on-linux-using-wineproton-with-dxvk-a-complete-guide-2mh6)**
+
+> Run Windows games on Linux with Wine, Proton, and DXVK — the full setup.
+
+</td>
+</tr>
+</table>
 <!-- BLOG-POST-LIST:END -->
 
----
+</div>
 
-## <img src="https://media.giphy.com/media/2iA2t543XwZFPIrQXt/giphy.gif" width="35" align="center"> Let's Connect
+<br>
 
-<p align="center">
-  <a href="https://dev.to/hishantik">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
-  </a>
-  <a href="https://twitter.com/sarkar_234">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://leetcode.com/Dekustik">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="https://instagram.com/dek_ustik">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100004127235868">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-</p>
+<!-- ═══════════════════════ NOW PLAYING ═══════════════════════ -->
 
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://stackoverflow.com/users/20044958/Hishantik-Sarkar">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
-  </a>
-  <a href="https://hashnode.com/@Dekustik">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
-  </a>
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=100&section=header&text=%F0%9F%8E%A7%20Now%20Playing&fontSize=32&fontColor=ffffff&descAlignY=40" width="100%"/>
 
-## <img src="https://media.giphy.com/media/1AgViXhq2VzOZ/giphy.gif" width="35" align="center"> Support My Work
+<br>
+<br>
 
-<p align="center">
-  <a href="https://github.com/Hishantik">
-    <img src="https://img.shields.io/badge/Sponsor-181717?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="Sponsor">
-  </a>
-  <a href="https://github.com/Hishantik">
-    <img src="https://img.shields.io/badge/Star-%E2%AD%95-yellow?style=for-the-badge" alt="Star">
-  </a>
-</p>
+[<img src="https://dekutorem.vercel.app/api/spotify?background_color=0d1117&border_color=64D8CB"/>](https://open.spotify.com/user/deku)
 
----
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:58A6FF,100:8B5CF6&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&animation=fadeIn&fontAlignY=40&reversal=false" alt="Footer">
-</p>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hishantik&color=58A6FF&style=flat-square" alt="Profile Views">
-  <br>
-  <em>Made with ❤️ by Hishantik Sarkar</em>
-</p>
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=100&section=header&text=%F0%9F%94%97%20Connect%20With%20Me&fontSize=32&fontColor=ffffff&descAlignY=40" width="100%"/>
+
+<br>
+<br>
+
+<a href="https://www.facebook.com/profile.php?id=100004127235868"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;
+<a href="https://instagram.com/dek_ustik"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+<a href="https://twitter.com/sarkar_234"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
+<a href="https://dev.to/sarkar_234"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>&nbsp;
+<a href="https://stackoverflow.com/users/20044958/Hishantik-Sarkar"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>&nbsp;
+<a href="https://leetcode.com/Dekustik"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;
+<a href="https://hashnode.com/@Dekustik"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=100&section=footer" width="100%"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Hishantik&color=64D8CB&style=flat-square&label=Profile+Views" />
+
+<br>
+<br>
+
+<sub>crafted with care by <b>Hishantik</b></sub>
+
+</div>
