@@ -173,41 +173,47 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉**
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.05 %
-🌆 Daytime                166 commits         ██████░░░░░░░░░░░░░░░░░░░   25.08 %
-🌃 Evening                291 commits         ███████████░░░░░░░░░░░░░░   43.96 %
-🌙 Night                  112 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 %
+🌞 Morning                162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+🌆 Daytime                302 commits         ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+🌃 Evening                547 commits         ███████████░░░░░░░░░░░░░░   44.47 % 
+🌙 Night                  219 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
 ```
-
-📅 **I'm Most Productive on Monday**
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   125 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 %
-Tuesday                  45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-Wednesday                109 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-Thursday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-Friday                   109 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-Saturday                 97 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.65 %
-Sunday                   125 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 %
+Monday                   244 commits         █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+Tuesday                  97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Wednesday                189 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Thursday                 126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Friday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Saturday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Sunday                   284 commits         ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages:
-No Activity Tracked This Week
+💬 Programming Languages: 
+Markdown                 50 mins             ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+Image (svg)              39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+HTML                     29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Bash                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+JavaScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
 
-🔥 Editors:
-No Activity Tracked This Week
+🔥 Editors: 
+Neovim                   3 hrs 10 mins       █████████████████████████   100.00 % 
 
-💻 Operating System:
-No Activity Tracked This Week
+💻 Operating System: 
+Android                  3 hrs 10 mins       █████████████████████████   100.00 % 
 ```
+
+
 <!--END_SECTION:waka-->
 
 </details>
