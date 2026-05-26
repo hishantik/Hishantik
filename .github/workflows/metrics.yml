@@ -36,7 +36,7 @@ jobs:
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_anilist: yes
-          plugin_anilist-suffle: yes
+          plugin_anilist_shuffle: yes
           plugin_anilist_user: dekustik
           #plugin_anilist_medias: anime
           plugin_anilist_sections: characters
@@ -59,16 +59,16 @@ jobs:
       - name: Favorites manga and currently reading
         uses: lowlighter/metrics@latest
         with:
-         filename: metrics.plugin.anilist.manga.svg
-         token: ${{ secrets.METRICS_TOKEN }}
-         base: ""
-         output_action: gist
-         committer_gist: ${{ secrets.GIST }}
-         plugin_anilist: yes
-         plugin_anilist_user: dekustik
-         plugin_anilist_medias: manga
-         plugin_anilist_sections: favorites, reading
-         plugin_anilist_limit: 1
+          filename: metrics.plugin.anilist.manga.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_anilist: yes
+          plugin_anilist_user: dekustik
+          plugin_anilist_medias: manga
+          plugin_anilist_sections: favorites, reading
+          plugin_anilist_limit: 1
 
       - name: Fortune
         uses: lowlighter/metrics@latest
@@ -230,14 +230,14 @@ jobs:
       - name: Latest tweets
         uses: lowlighter/metrics@latest
         with:
-         filename: metrics.plugin.tweets.svg
-         token: ${{ secrets.METRICS_TOKEN }}
-         base: ""
-         output_action: gist
-         committer_gist: ${{ secrets.GIST }}
-         plugin_tweets: yes
-         plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-         plugin_tweets_user: sarkar_234
+          filename: metrics.plugin.tweets.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugin_tweets_user: sarkar_234
 
       - name: LeetCode
         uses: lowlighter/metrics@latest
