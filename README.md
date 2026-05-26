@@ -221,35 +221,9 @@ No Activity Tracked This Week
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-<table>
-<tr>
-<td>
-
-**[A Complete Guide to Networking on Linux Systems for File and Data Sharing](https://dev.to/hishantik/a-complete-guide-to-networking-on-linux-systems-for-file-and-data-sharing-126f)**
-
-> Deep dive into Linux networking for seamless file and data sharing across systems.
-
-</td>
-</tr>
-<tr>
-<td>
-
-**[Setting Up Termux for Web Development: A Complete Guide](https://dev.to/hishantik/setting-up-termux-for-web-development-a-complete-guide-jal)**
-
-> Turn your Android into a full web development environment with Termux.
-
-</td>
-</tr>
-<tr>
-<td>
-
-**[The Complete Guide to Linux Gaming: Setting Up Wine, Proton, and Dependencies](https://dev.to/hishantik/gaming-on-linux-using-wineproton-with-dxvk-a-complete-guide-2mh6)**
-
-> Run Windows games on Linux with Wine, Proton, and DXVK — the full setup.
-
-</td>
-</tr>
-</table>
+- [A Complete Guide to Networking on Linux Systems for File and Data Sharing](https://dev.to/hishantik/a-complete-guide-to-networking-on-linux-systems-for-file-and-data-sharing-126f)
+- [Setting Up Termux for Web Development: A Complete Guide](https://dev.to/hishantik/setting-up-termux-for-web-development-a-complete-guide-jal)
+- [The Complete Guide to Linux Gaming: Setting Up Wine, Proton, and Dependencies.](https://dev.to/hishantik/gaming-on-linux-using-wineproton-with-dxvk-a-complete-guide-2mh6)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
