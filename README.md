@@ -144,8 +144,13 @@
 
 <br>
 <br>
+  
+<!--START_SECTION:activity-->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hishantik&bg_color=0d1117&color=64D8CB&line=64D8CB&point=ffffff&area_color=64D8CB&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+<!-- END_SECTION:activity -->
+
+  
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hishantik&bg_color=0d1117&color=64D8CB&line=64D8CB&point=ffffff&area_color=64D8CB&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/> -->
 
 <br>
 
@@ -162,7 +167,7 @@
 
 <details>
 <summary>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=60&section=header&text=%E2%8F%B1%EF%B8%8F%20WakaTime%20Stats&fontSize=42&fontColor=ffffff&descAlignY=38" width="300"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=60&section=header&text=%E2%8F%B1%EF%B8%8F%20WakaTime%20Stats&fontSize=42&fontColor=ffffff&descAlignY=38" width="450"/>
 </summary>
 
 <br>
@@ -241,6 +246,17 @@ No Activity Tracked This Week
 
 [<img src="https://dekutorem.vercel.app/api/spotify?background_color=0d1117&border_color=64D8CB"/>](https://open.spotify.com/user/deku)
 
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=100&section=header&text=%F0%9F%93%88%20Anilist%20Activity&fontSize=32&fontColor=ffffff&descAlignY=40" width="100%"/>
+
+<!-- ANILIST_ACTIVITY:start -->
+
+<!-- ANILIST_ACTIVITY:end -->
 </div>
 
 <br>
