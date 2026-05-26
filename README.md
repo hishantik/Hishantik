@@ -1,14 +1,6 @@
 <div align="center">
 
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
-
-![header](./assets/header.svg)
-
-<!-- ═══════════════════════ NEON CIRCUIT ANIMATION ═══════════════════════ -->
-
-
-<br>
-
 <!-- ═══════════════════════ NAME + TITLE ═══════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=180&section=header&text=Hishantik%20Sarkar&fontSize=70&fontColor=ffffff&desc=&descSize=20&descAlignY=35&animation=fadeIn" width="100%"/>
@@ -27,6 +19,9 @@
 
 <img src="https://images.weserv.nl/?url=https://gist.github.com/user-attachments/assets/ba66a3db-66fd-48dc-bce2-667e547ed13a?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" width="160" style="border-radius:50%;border:3px solid #64D8CB;box-shadow:0 0 30px rgba(100,216,203,0.3)"/>
 
+<!-- ═══════════════════════ NEON CIRCUIT ANIMATION ═══════════════════════ -->
+
+![header](./assets/header.svg)
 <br>
 <br>
 
