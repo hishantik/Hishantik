@@ -255,11 +255,11 @@ Android                  3 hrs 10 mins       ███████████�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 - 9 of [Classroom of the Elite](https://anilist.co/anime/98659) (17:17 27 May 2026)
 -   📺 Completed [Witch Hat Atelier](https://anilist.co/anime/147105) (16:01 27 May 2026)
 -   📺 Watched episode 8 of [Witch Hat Atelier](https://anilist.co/anime/147105) (16:00 27 May 2026)
 -   📺 Completed [Witch Hat Atelier](https://anilist.co/anime/147105) (16:00 27 May 2026)
 -   📺 Watched episode 6 of [Daemons of the Shadow Realm](https://anilist.co/anime/195600) (04:50 27 May 2026)
--   📺 Watched episode 11 of [Gachiakuta](https://anilist.co/anime/178025) (16:48 27 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
