@@ -255,11 +255,11 @@ Android                  3 hrs 10 mins       ███████████�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Daemons of the Shadow Realm](https://anilist.co/anime/195600) (04:50 27 May 2026)
 -   📺 Watched episode 11 of [Gachiakuta](https://anilist.co/anime/178025) (16:48 27 November 2025)
 -   📺 Watched episode 23 - 24 of [Food Wars!](https://anilist.co/anime/20923) (13:49 16 December 2024)
 -   📖 Read chapter 17 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (13:28 16 December 2024)
 -   📖 Read chapter 30 of [Dead Mansion](https://anilist.co/manga/181996) (13:19 16 December 2024)
--   📖 Read chapter 91 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (18:23 15 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
