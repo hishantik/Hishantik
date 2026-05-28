@@ -11,20 +11,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: Compact display
-        uses: gh-metrics/metrics@master
-        with:
-          filename: metrics.plugin.achievements.compact.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
+      # - name: Compact display
+      #   uses: gh-metrics/metrics@master
+      #   with:
+      #     filename: metrics.plugin.achievements.compact.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     output_action: gist
+      #     committer_gist: ${{ secrets.GIST }}
+      #     plugin_achievements: yes
+      #     plugin_achievements_only: >-
+      #       polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+      #       scripter, packager, explorer, infographile, manager
+      #     plugin_achievements_display: compact
+      #     plugin_achievements_threshold: X
 
       - name: Favorites characters
         if: ${{ success()||failure() }}
@@ -81,7 +81,7 @@ jobs:
           plugin_fortune: yes
 
       - name: Recent activity charts
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@master
         with:
           filename: metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -94,7 +94,7 @@ jobs:
           config_timezone: Asia/Kolkata
 
       - name: Mildly interesting facts
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@master
         with:
           filename: metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -174,17 +174,17 @@ jobs:
           plugin_languages_limit: 6
           plugin_languages_analysis_timeout: 15
 
-      - name: Detailed display
-        uses: gh-metrics/metrics@master
-        with:
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_only: sponsor, maintainer, octonaut, developer, deployer, manager
+      # - name: Detailed display
+      #   uses: gh-metrics/metrics@master
+      #   with:
+      #     filename: metrics.plugin.achievements.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     output_action: gist
+      #     committer_gist: ${{ secrets.GIST }}
+      #     plugin_achievements: yes
+      #     plugin_achievements_display: detailed
+      #     plugin_achievements_only: sponsor, maintainer, octonaut, developer, deployer, manager
 
       - name: Repository introduction
         uses: lowlighter/metrics@latest
