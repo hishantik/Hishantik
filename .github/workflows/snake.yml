@@ -34,4 +34,6 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
           gist_id: ${{ secrets.GIST }}
-          file_path: dist/github-contribution-grid-snake.svg, dist/github-contribution-grid-snake-dark.svg
+          file_path: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
