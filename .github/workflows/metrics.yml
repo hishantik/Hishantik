@@ -363,17 +363,17 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: hishantik/anilix,hishantik/render.nvim
 
-      # - name: WakaTime
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #    filename: metrics.plugin.wakatime.svg
-      #    token: NOT_NEEDED
-      #    base: ""
-      #    output_action: gist
-      #    committer_gist: ${{ secrets.GIST }}
-      #    plugin_wakatime: yes
-      #    plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-      #    plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+      - name: WakaTime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
 
 
 
