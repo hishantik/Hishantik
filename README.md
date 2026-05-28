@@ -174,21 +174,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-🌆 Daytime                304 commits         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-🌃 Evening                555 commits         ███████████░░░░░░░░░░░░░░   44.51 % 
-🌙 Night                  224 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+🌞 Morning                177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+🌆 Daytime                311 commits         ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+🌃 Evening                561 commits         ███████████░░░░░░░░░░░░░░   43.90 % 
+🌙 Night                  229 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   246 commits         █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Tuesday                  100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Wednesday                199 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Thursday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Friday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Saturday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Sunday                   284 commits         ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+Monday                   248 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Tuesday                  100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Wednesday                199 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Thursday                 151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Friday                   157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Saturday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Sunday                   285 commits         ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
 ```
 
 
@@ -198,17 +198,17 @@ Sunday                   284 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 4 mins        █████████████░░░░░░░░░░░░   51.02 % 
-Image (svg)              39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-HTML                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Markdown                 2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   41.29 % 
+YAML                     1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+Image (svg)              39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+HTML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 4 mins        █████████████████████████   100.00 % 
+Neovim                   6 hrs 58 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Android                  4 hrs 4 mins        █████████████████████████   100.00 % 
+Android                  6 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 
