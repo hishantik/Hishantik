@@ -114,7 +114,7 @@
 
 
 
-<img src="https://gist.githubusercontent.com/hishantik/836476e9ec3612070f37a460750c61ff/raw/77e3aebfebe5d65e6cea09391763fd83d1139632/metrics.plugin.repositories.svg" width="80%">
+<img src="https://gist.githubusercontent.com/hishantik/836476e9ec3612070f37a460750c61ff/raw/77e3aebfebe5d65e6cea09391763fd83d1139632/metrics.plugin.repositories.svg" width="90%">
 <!-- Stats Cards Row -->
 <!-- <img src="https://github-readme-stats-psi-steel.vercel.app/api?username=hishantik&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=64D8CB&icon_color=64D8CB&text_color=c9d1d9&ring_color=64D8CB&include_all_commits=true&count_private=true" width="49%"/> -->
 &nbsp;
@@ -166,7 +166,7 @@
 </summary>
 <br>
 
-<img width="80%" src="https://gist.githubusercontent.com/hishantik/836476e9ec3612070f37a460750c61ff/raw/77e3aebfebe5d65e6cea09391763fd83d1139632/metrics.plugin.wakatime.svg">
+<img width="90%" src="https://gist.githubusercontent.com/hishantik/836476e9ec3612070f37a460750c61ff/raw/77e3aebfebe5d65e6cea09391763fd83d1139632/metrics.plugin.wakatime.svg">
 
 <br>
 
@@ -227,7 +227,7 @@ Android                  6 hrs 58 mins       ███████████�
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=100&section=header&text=%F0%9F%93%9D%20Latest%20Blog%20Posts&fontSize=32&fontColor=ffffff&descAlignY=40" width="100%"/>
 
 <br>
-<img src="https://gist.githubusercontent.com/hishantik/836476e9ec3612070f37a460750c61ff/raw/77e3aebfebe5d65e6cea09391763fd83d1139632/metrics.plugin.posts.full.svg" width="80%">
+<img src="https://gist.githubusercontent.com/hishantik/836476e9ec3612070f37a460750c61ff/raw/77e3aebfebe5d65e6cea09391763fd83d1139632/metrics.plugin.posts.full.svg" width="100%">
 
 <br>
 
@@ -250,7 +250,7 @@ Android                  6 hrs 58 mins       ███████████�
 <br>
 <br>
 
-[<img src="https://dekutorem.vercel.app/api/spotify?background_color=0d1117&border_color=64D8CB"/>](https://open.spotify.com/user/deku)
+<img src="https://gist.githubusercontent.com/hishantik/836476e9ec3612070f37a460750c61ff/raw/ca8c7f8f4396292d5be4428c2d1a6e2eeecd9148/github-metrics.svg" width="100%"/>
 
 </div>
 
@@ -261,7 +261,7 @@ Android                  6 hrs 58 mins       ███████████�
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=100&section=header&text=%F0%9F%8E%AC%20Anilist%20Activity&fontSize=32&fontColor=ffffff&descAlignY=40" width="100%"/>
 
 
-<img src="https://gist.githubusercontent.com/hishantik/836476e9ec3612070f37a460750c61ff/raw/77e3aebfebe5d65e6cea09391763fd83d1139632/metrics.plugin.anilist.svg" width="80%"/>
+<img src="https://gist.githubusercontent.com/hishantik/836476e9ec3612070f37a460750c61ff/raw/77e3aebfebe5d65e6cea09391763fd83d1139632/metrics.plugin.anilist.svg" width="90%"/>
 
 <!-- ANILIST_ACTIVITY:start -->
 
