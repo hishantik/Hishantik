@@ -57,7 +57,7 @@ jobs:
           committer_gist: ${{ secrets.ISOGIST }}
           plugin_activity: yes
           plugin_activity_limit: 5
-          plugin_activity_days: 0
+          plugin_activity_days: 14
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
       - name: Most used (with details)
         uses: lowlighter/metrics@latest
@@ -82,19 +82,6 @@ jobs:
           committer_gist: ${{ secrets.ISOGIST }}
           plugin_repositories: yes
           plugin_repositories_pinned: 2
-      - name: Compact display
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.achievements.compact.svg
-          token: ${{ secrets.ISOMETRICS_TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.ISOGIST }}
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
       - name: Favorites anime and currently watching
         uses: lowlighter/metrics@latest
         with:
