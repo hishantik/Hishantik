@@ -215,6 +215,10 @@ jobs:
           plugin_posts_descriptions: yes
           plugin_posts_covers: yes
 
+      - name: Get current year
+        id: year
+        run: echo "year=$(date +%Y)" >> $GITHUB_OUTPUT
+
       - name: GitHub Skyline
         uses: lowlighter/metrics@latest
         with:
@@ -243,7 +247,7 @@ jobs:
           plugin_skyline_compatibility: no
           plugin_skyline_settings: |
             {
-              "url": "https://honzaap.github.io/GithubCity/?name=Hishantik&year=2025",
+              "url": "https://honzaap.github.io/GithubCity/?name=Hishantik&year=${{ steps.year.outputs.year }}",
               "ready": "[...document.querySelectorAll('.display-info span')].map(span =>span.innerText).includes('Hishantik')",
               "wait": 4,
               "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
