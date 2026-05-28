@@ -225,7 +225,7 @@ jobs:
           committer_gist: ${{ secrets.GIST }}
           plugin_skyline: yes
           plugin_skyline_year: current-year
-          plugin_skyline_frames: 120
+          plugin_skyline_frames: 75
           plugin_skyline_quality: 1
 
       - name: GitHub City
@@ -238,12 +238,12 @@ jobs:
           committer_gist: ${{ secrets.GIST }}
           plugin_skyline: yes
           plugin_skyline_year: current-year
-          plugin_skyline_frames: 120
+          plugin_skyline_frames: 75
           plugin_skyline_quality: 1
           plugin_skyline_compatibility: no
           plugin_skyline_settings: |
             {
-              "url": "https://honzaap.github.io GithubCity?name=Hishantik&year=2022",
+              "url": "https://honzaap.github.io/GithubCity/?name=Hishantik&year=2025",
               "ready": "[...document.querySelectorAll('.display-info span')].map(span =>span.innerText).includes('Hishantik')",
               "wait": 4,
               "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
