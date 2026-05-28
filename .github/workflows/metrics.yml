@@ -53,7 +53,7 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_user: dekustik
           plugin_anilist_medias: anime
-          plugin_anilist_sections: favorite, watching
+          plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 1
 
       - name: Favorites manga and currently reading
