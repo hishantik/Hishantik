@@ -107,15 +107,18 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=100&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=32&fontColor=ffffff&descAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=100&section=header&text=%F0%9F%93%8A%20Featured%20Repo&fontSize=32&fontColor=ffffff&descAlignY=40" width="100%"/>
 
 <br>
 <br>
 
+
+
+<img src="https://gist.githubusercontent.com/hishantik/836476e9ec3612070f37a460750c61ff/raw/77e3aebfebe5d65e6cea09391763fd83d1139632/metrics.plugin.repositories.svg" width="80%">
 <!-- Stats Cards Row -->
-<img src="https://github-readme-stats-psi-steel.vercel.app/api?username=hishantik&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=64D8CB&icon_color=64D8CB&text_color=c9d1d9&ring_color=64D8CB&include_all_commits=true&count_private=true" width="49%"/>
+<!-- <img src="https://github-readme-stats-psi-steel.vercel.app/api?username=hishantik&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=64D8CB&icon_color=64D8CB&text_color=c9d1d9&ring_color=64D8CB&include_all_commits=true&count_private=true" width="49%"/> -->
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hishantik&theme=tokyonight&background=0d1117&hide_border=true&ring=64D8CB&fire=64D8CB&currStreakLabel=64D8CB&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hishantik&theme=tokyonight&background=0d1117&hide_border=true&ring=64D8CB&fire=64D8CB&currStreakLabel=64D8CB&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%"/> -->
 
 <br>
 
@@ -134,6 +137,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=100&section=header&text=%F0%9F%93%88%20Activity%20Graph&fontSize=32&fontColor=ffffff&descAlignY=40" width="100%"/>
 
 <br>
+
+  <img src="https://gist.githubusercontent.com/hishantik/836476e9ec3612070f37a460750c61ff/raw/77e3aebfebe5d65e6cea09391763fd83d1139632/metrics.plugin.habits.charts.svg">
 <br>
   
 <!--START_SECTION:activity-->
@@ -157,8 +162,11 @@
 
 <details>
 <summary>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=60&section=header&text=%E2%8F%B1%EF%B8%8F%20WakaTime%20Stats&fontSize=42&fontColor=ffffff&descAlignY=38" width="450"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=60&section=header&text=%E2%8F%B1%EF%B8%8F%20WakaTime%20Stats&fontSize=42&fontColor=ffffff&descAlignY=38" width="450"/> 
 </summary>
+<br>
+
+<img width="80%" src="https://gist.githubusercontent.com/hishantik/836476e9ec3612070f37a460750c61ff/raw/77e3aebfebe5d65e6cea09391763fd83d1139632/metrics.plugin.wakatime.svg">
 
 <br>
 
@@ -219,6 +227,8 @@ Android                  4 hrs 4 mins        ███████████�
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=100&section=header&text=%F0%9F%93%9D%20Latest%20Blog%20Posts&fontSize=32&fontColor=ffffff&descAlignY=40" width="100%"/>
 
 <br>
+<img src="https://gist.githubusercontent.com/hishantik/836476e9ec3612070f37a460750c61ff/raw/77e3aebfebe5d65e6cea09391763fd83d1139632/metrics.plugin.posts.full.svg" width="80%">
+
 <br>
 
 <!-- BLOG-POST-LIST:START -->
@@ -251,7 +261,7 @@ Android                  4 hrs 4 mins        ███████████�
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,23,30&height=100&section=header&text=%F0%9F%8E%AC%20Anilist%20Activity&fontSize=32&fontColor=ffffff&descAlignY=40" width="100%"/>
 
 
-<img src="https://gist.githubusercontent.com/hishantik/836476e9ec3612070f37a460750c61ff/raw/420735afbeb3b25533dcb75820f2486985900133/metrics.plugin.anilist.svg"/>
+<img src="https://gist.githubusercontent.com/hishantik/836476e9ec3612070f37a460750c61ff/raw/77e3aebfebe5d65e6cea09391763fd83d1139632/metrics.plugin.anilist.svg" width="80%"/>
 
 <!-- ANILIST_ACTIVITY:start -->
 
