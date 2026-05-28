@@ -192,7 +192,7 @@ jobs:
           filename: metrics.plugin.introduction.repository.svg
           token: ${{ secrets.METRICS_TOKEN }}
           template: repository
-          repo: Hishantik
+          repo: hishantik
           base: header
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
@@ -272,8 +272,8 @@ jobs:
           plugin_skyline_compatibility: no
           plugin_skyline_settings: |
             {
-              "url": "https://honzaap.github.io/GithubCity/?name=Hishantik&year=${{ steps.year.outputs.year }}",
-              "ready": "[...document.querySelectorAll('.display-info span')].map(span =>span.innerText).includes('Hishantik')",
+              "url": "https://honzaap.github.io/GithubCity/?name=hishantik&year=${{ steps.year.outputs.year }}",
+              "ready": "[...document.querySelectorAll('.display-info span')].map(span =>span.innerText).includes('hishantik')",
               "wait": 4,
               "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
             }
