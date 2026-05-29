@@ -265,11 +265,11 @@ Android                  6 hrs 58 mins       ███████████�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [Classroom of the Elite](https://anilist.co/anime/98659) (09:16 29 May 2026)
 -   📺 Watched episode 9 - 10 of [Classroom of the Elite](https://anilist.co/anime/98659) (17:07 28 May 2026)
 -   📺 Watched episode 7 - 9 of [Classroom of the Elite](https://anilist.co/anime/98659) (17:17 27 May 2026)
 -   📺 Completed [Witch Hat Atelier](https://anilist.co/anime/147105) (16:01 27 May 2026)
 -   📺 Watched episode 8 of [Witch Hat Atelier](https://anilist.co/anime/147105) (16:00 27 May 2026)
--   📺 Completed [Witch Hat Atelier](https://anilist.co/anime/147105) (16:00 27 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
