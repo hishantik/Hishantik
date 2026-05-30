@@ -232,9 +232,6 @@ Android                  7 hrs               ███████████�
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Complete Guide to Networking on Linux Systems for File and Data Sharing](https://dev.to/hishantik/a-complete-guide-to-networking-on-linux-systems-for-file-and-data-sharing-126f)
-- [Setting Up Termux for Web Development: A Complete Guide](https://dev.to/hishantik/setting-up-termux-for-web-development-a-complete-guide-jal)
-- [The Complete Guide to Linux Gaming: Setting Up Wine, Proton, and Dependencies.](https://dev.to/hishantik/gaming-on-linux-using-wineproton-with-dxvk-a-complete-guide-2mh6)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
