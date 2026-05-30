@@ -232,8 +232,8 @@ Android                  7 hrs               ███████████�
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-| Title | Url | Date | Description |
-| --- | --- | --- | --- |
+| Date | Description |
+| --- | --- |
 | [Getting Started with gaming on linux systems.](https://hishantik.vercel.app/blog/the-complete-guide-to-linux-gaming) | Sat May 30 2026 12:00 AM | The Complete Guide to Linux Gaming: Setting Up Wine, Proton, and Dependencies. |
 | [My Development Journey So Far](https://hishantik.vercel.app/blog/my-dev-journey-so-far) | Thu May 28 2026 12:00 AM | Reflecting on what I've learned as a student developer and where I'm headed. |
 | [Understanding TypeScript Generics](https://hishantik.vercel.app/blog/understanding-typescript-generics) | Mon May 25 2026 12:00 AM | A beginner-friendly guide to TypeScript generics with practical examples. |
