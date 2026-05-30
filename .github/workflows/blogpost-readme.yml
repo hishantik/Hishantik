@@ -15,4 +15,4 @@ jobs:
           feed_list: "https://dev.to/hishantik,https://hishantik.vercel.app"
           max_post_count: 5
           layout: table
-          template: "| [$title]($url) | $date | $description |"
+          template: "| [$title]($url) | $date |"
