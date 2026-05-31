@@ -171,6 +171,46 @@
 <br>
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+🌆 Daytime                315 commits         ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+🌃 Evening                585 commits         ███████████░░░░░░░░░░░░░░   44.28 % 
+🌙 Night                  244 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   248 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Tuesday                  100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Wednesday                199 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Thursday                 151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Friday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Saturday                 155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Sunday                   296 commits         ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 3 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   39.47 % 
+YAML                     1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+Image (svg)              39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+MDX                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+
+🔥 Editors: 
+Neovim                   7 hrs 58 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Android                  7 hrs 58 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
