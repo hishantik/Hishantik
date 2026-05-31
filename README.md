@@ -269,11 +269,11 @@ Android                  7 hrs 58 mins       ███████████�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 5 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (17:54 31 May 2026)
 -   📺 Watched episode 1 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (16:51 30 May 2026)
 -   📺 Completed [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (14:00 30 May 2026)
 -   📺 Watched episode 1 - 12 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (13:40 30 May 2026)
 -   📺 Completed [Classroom of the Elite](https://anilist.co/anime/98659) (16:52 29 May 2026)
--   📺 Watched episode 11 of [Classroom of the Elite](https://anilist.co/anime/98659) (09:16 29 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
