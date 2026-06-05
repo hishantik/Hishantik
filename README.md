@@ -268,7 +268,7 @@ Android                  1 hr 9 mins         ███████████�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 6 - 8 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (17:39 05 June 2026)
+-   📺 Watched episode 6 - 10 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (20:30 05 June 2026)
 -   📺 Watched episode 3 - 5 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (19:55 04 June 2026)
 -   📺 Watched episode 1 - 2 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (09:27 03 June 2026)
 -   📺 Watched episode 2 - 10 of [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (14:01 02 June 2026)
