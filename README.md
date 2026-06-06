@@ -268,11 +268,11 @@ Android                  1 hr 9 mins         ███████████�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [The Ramparts of Ice](https://anilist.co/anime/186497) (16:46 06 June 2026)
+-   📺 Completed [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (15:45 06 June 2026)
 -   📺 Watched episode 1 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (14:36 06 June 2026)
 -   📺 Completed [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (22:39 05 June 2026)
 -   📺 Watched episode 6 - 11 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (22:06 05 June 2026)
--   📺 Watched episode 3 - 5 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (19:55 04 June 2026)
--   📺 Watched episode 1 - 2 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (09:27 03 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
