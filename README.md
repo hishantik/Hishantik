@@ -198,16 +198,14 @@ Sunday                   296 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-MDX                      31 mins             ████████████░░░░░░░░░░░░░   46.81 % 
-YAML                     20 mins             ████████░░░░░░░░░░░░░░░░░   30.12 % 
-Markdown                 13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Lua                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+YAML                     8 mins              ████████████████████░░░░░   81.51 % 
+Lua                      1 min               █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
 
 🔥 Editors: 
-Neovim                   1 hr 7 mins         █████████████████████████   100.00 % 
+Neovim                   10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Android                  1 hr 7 mins         █████████████████████████   100.00 % 
+Android                  10 mins             █████████████████████████   100.00 % 
 ```
 
 
