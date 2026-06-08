@@ -174,21 +174,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-🌆 Daytime                317 commits         ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-🌃 Evening                586 commits         ███████████░░░░░░░░░░░░░░   44.06 % 
-🌙 Night                  250 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+🌞 Morning                177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+🌆 Daytime                317 commits         ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+🌃 Evening                576 commits         ███████████░░░░░░░░░░░░░░   43.94 % 
+🌙 Night                  241 commits         █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   250 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Tuesday                  103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Wednesday                199 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Thursday                 151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Friday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Saturday                 159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Sunday                   296 commits         ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+Monday                   250 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Tuesday                  103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Wednesday                199 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Thursday                 151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Friday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Saturday                 149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Sunday                   287 commits         █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
 ```
 
 
@@ -198,14 +198,13 @@ Sunday                   296 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     8 mins              ████████████████████░░░░░   81.51 % 
-Lua                      1 min               █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Lua                      1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   10 mins             █████████████████████████   100.00 % 
+Neovim                   1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Android                  10 mins             █████████████████████████   100.00 % 
+Android                  1 min               █████████████████████████   100.00 % 
 ```
 
 
