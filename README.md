@@ -265,11 +265,11 @@ Android                  1 min               ███████████�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [My Hero Academia: Vigilantes](https://anilist.co/anime/185736) (03:44 09 June 2026)
 -   📺 Watched episode 1 of [The Ramparts of Ice](https://anilist.co/anime/186497) (16:46 06 June 2026)
 -   📺 Completed [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (15:45 06 June 2026)
 -   📺 Watched episode 1 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (14:36 06 June 2026)
 -   📺 Completed [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (22:39 05 June 2026)
--   📺 Watched episode 6 - 11 of [Grand Blue Dreaming Season 2](https://anilist.co/anime/182309) (22:06 05 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
