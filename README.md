@@ -198,13 +198,13 @@ Sunday                   304 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Lua                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Android                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
