@@ -174,21 +174,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-🌆 Daytime                338 commits         ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-🌃 Evening                615 commits         ███████████░░░░░░░░░░░░░░   43.77 % 
-🌙 Night                  260 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+🌞 Morning                208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+🌆 Daytime                359 commits         ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+🌃 Evening                653 commits         ███████████░░░░░░░░░░░░░░   43.83 % 
+🌙 Night                  270 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   266 commits         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Tuesday                  108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Wednesday                214 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Thursday                 175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Friday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Saturday                 162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Sunday                   304 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Monday                   282 commits         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Tuesday                  113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Wednesday                237 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Thursday                 201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Saturday                 165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Sunday                   312 commits         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
 ```
 
 
@@ -198,13 +198,13 @@ Sunday                   304 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     23 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Android                  23 mins             █████████████████████████   100.00 % 
 ```
 
 
