@@ -265,11 +265,11 @@ Android                  23 mins             ███████████�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [Witch Hat Atelier](https://anilist.co/anime/147105) (12:03 13 June 2026)
 -   📺 Watched episode 6 of [ONE PIECE](https://anilist.co/anime/21) (14:30 11 June 2026)
 -   📺 Watched episode 10 - 12 of [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (14:19 11 June 2026)
 -   📺 Watched episode 2 of [ONE PIECE](https://anilist.co/anime/21) (17:04 10 June 2026)
 -   📺 Watched episode 12 of [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (16:21 10 June 2026)
--   📺 Watched episode 1 of [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922) (16:20 10 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
