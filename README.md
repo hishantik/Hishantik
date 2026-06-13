@@ -174,21 +174,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-🌆 Daytime                359 commits         ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-🌃 Evening                653 commits         ███████████░░░░░░░░░░░░░░   43.83 % 
-🌙 Night                  270 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+🌞 Morning                208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+🌆 Daytime                361 commits         ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+🌃 Evening                654 commits         ███████████░░░░░░░░░░░░░░   43.80 % 
+🌙 Night                  270 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   282 commits         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Tuesday                  113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Wednesday                237 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Thursday                 201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Saturday                 165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Sunday                   312 commits         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Monday                   282 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Tuesday                  113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Wednesday                237 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Thursday                 201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Saturday                 168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Sunday                   312 commits         █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
 ```
 
 
@@ -198,13 +198,14 @@ Sunday                   312 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     23 mins             █████████████████████████   100.00 % 
+HTML                     37 mins             ███████████████░░░░░░░░░░   61.99 % 
+Bash                     23 mins             ██████████░░░░░░░░░░░░░░░   38.01 % 
 
 🔥 Editors: 
-Neovim                   23 mins             █████████████████████████   100.00 % 
+Neovim                   1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Android                  23 mins             █████████████████████████   100.00 % 
+Android                  1 hr                █████████████████████████   100.00 % 
 ```
 
 
