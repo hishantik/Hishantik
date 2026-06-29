@@ -265,11 +265,11 @@ No Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 501 of [ONE PIECE](https://anilist.co/anime/21) (14:50 13 June 2026)
--   📺 Watched episode 1 of [Dr. STONE SCIENCE FUTURE Cour 3](https://anilist.co/anime/199221) (14:40 13 June 2026)
--   📺 Watched episode 11 of [Witch Hat Atelier](https://anilist.co/anime/147105) (12:03 13 June 2026)
--   📺 Watched episode 6 of [ONE PIECE](https://anilist.co/anime/21) (14:30 11 June 2026)
--   📺 Watched episode 10 - 12 of [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (14:19 11 June 2026)
+-   📖 Plans to read [Paragon Demon: Revenant Saga](https://anilist.co/manga/185817) (08:55 29 June 2026)
+-   📖 Plans to read [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (08:54 29 June 2026)
+-   📖 Plans to read [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (08:54 29 June 2026)
+-   📖 Plans to read [Myst, Might, Mayhem](https://anilist.co/manga/175946) (08:53 29 June 2026)
+-   📖 Plans to read [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (08:52 29 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
