@@ -265,11 +265,11 @@ No Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 94 - 95 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (04:08 30 June 2026)
 -   📖 Read chapter 81 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (09:46 29 June 2026)
 -   📖 Read chapter 41 of [The Patron of Villains](https://anilist.co/manga/201009) (09:45 29 June 2026)
 -   📖 Read chapter 174 of [The Infinite Mage](https://anilist.co/manga/159930) (09:38 29 June 2026)
 -   📖 Read chapter 62 of [Barbarian's Adventure in a Fantasy World](https://anilist.co/manga/196874) (09:38 29 June 2026)
--   📖 Read chapter 31 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (09:35 29 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
