@@ -265,11 +265,11 @@ No Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 - 11 of [Daemons of the Shadow Realm](https://anilist.co/anime/195600) (09:27 02 July 2026)
 -   📖 Read chapter 212 of [Reality Quest](https://anilist.co/manga/141705) (18:47 01 July 2026)
 -   📖 Read chapter 10 - 17 of [Cheonssisegaui Mangnaniga Doeeotda](https://anilist.co/manga/207193) (18:40 01 July 2026)
 -   📖 Read chapter 128 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (04:45 01 July 2026)
 -   📖 Read chapter 175 of [The Infinite Mage](https://anilist.co/manga/159930) (04:37 01 July 2026)
--   📖 Read chapter 211 of [Reality Quest](https://anilist.co/manga/141705) (22:30 30 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
