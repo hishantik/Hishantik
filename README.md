@@ -265,11 +265,11 @@ No Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 42 of [The Patron of Villains](https://anilist.co/manga/201009) (11:20 03 July 2026)
 -   📖 Read chapter 53 of [Chronicles of the Lazy Sovereign](https://anilist.co/manga/195914) (18:12 02 July 2026)
 -   📖 Read chapter 63 of [Barbarian's Adventure in a Fantasy World](https://anilist.co/manga/196874) (18:00 02 July 2026)
 -   📖 Read chapter 59 - 60 of [The Unorthodox Genius of the House of Darkness](https://anilist.co/manga/189380) (17:54 02 July 2026)
 -   📺 Watched episode 7 - 11 of [Daemons of the Shadow Realm](https://anilist.co/anime/195600) (09:27 02 July 2026)
--   📖 Read chapter 212 of [Reality Quest](https://anilist.co/manga/141705) (18:47 01 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
