@@ -265,11 +265,11 @@ No Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 32 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (14:32 05 July 2026)
+-   📖 Read chapter 54 of [Chronicles of the Lazy Sovereign](https://anilist.co/manga/195914) (13:47 05 July 2026)
 -   📖 Read chapter 82 - 83 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (20:10 03 July 2026)
 -   📖 Read chapter 42 of [The Patron of Villains](https://anilist.co/manga/201009) (11:20 03 July 2026)
 -   📖 Read chapter 53 of [Chronicles of the Lazy Sovereign](https://anilist.co/manga/195914) (18:12 02 July 2026)
--   📖 Read chapter 63 of [Barbarian's Adventure in a Fantasy World](https://anilist.co/manga/196874) (18:00 02 July 2026)
--   📖 Read chapter 59 - 60 of [The Unorthodox Genius of the House of Darkness](https://anilist.co/manga/189380) (17:54 02 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
