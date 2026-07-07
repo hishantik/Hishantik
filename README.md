@@ -265,11 +265,11 @@ No Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 84 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (03:41 07 July 2026)
+-   📖 Read chapter 96 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (03:37 07 July 2026)
 -   📖 Read chapter 36 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (17:08 06 July 2026)
 -   📖 Read chapter 129 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (17:04 06 July 2026)
 -   📖 Read chapter 32 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (14:32 05 July 2026)
--   📖 Read chapter 54 of [Chronicles of the Lazy Sovereign](https://anilist.co/manga/195914) (13:47 05 July 2026)
--   📖 Read chapter 82 - 83 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (20:10 03 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
