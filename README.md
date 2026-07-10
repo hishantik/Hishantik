@@ -265,11 +265,11 @@ No Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (19:13 10 July 2026)
 -   📖 Read chapter 213 of [Reality Quest](https://anilist.co/manga/141705) (18:51 08 July 2026)
 -   📖 Plans to read [Became the Lout First Prince](https://anilist.co/manga/207089) (18:57 07 July 2026)
 -   📖 Read chapter 84 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (03:41 07 July 2026)
 -   📖 Read chapter 96 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (03:37 07 July 2026)
--   📖 Read chapter 36 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (17:08 06 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
