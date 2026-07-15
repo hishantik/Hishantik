@@ -265,7 +265,7 @@ No Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 206 - 315 of [Blue Lock](https://anilist.co/manga/106130) (21:56 15 July 2026)
+-   📖 Read chapter 206 - 317 of [Blue Lock](https://anilist.co/manga/106130) (22:08 15 July 2026)
 -   📖 Read chapter 85 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (11:40 14 July 2026)
 -   📖 Read chapter 97 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (11:34 14 July 2026)
 -   📖 Plans to read [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (19:13 10 July 2026)
