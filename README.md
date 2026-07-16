@@ -265,11 +265,11 @@ No Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 64 of [Barbarian's Adventure in a Fantasy World](https://anilist.co/manga/196874) (18:42 16 July 2026)
 -   📖 Read chapter 206 - 354 of [Blue Lock](https://anilist.co/manga/106130) (14:49 16 July 2026)
 -   📖 Read chapter 214 of [Reality Quest](https://anilist.co/manga/141705) (13:42 16 July 2026)
 -   📖 Read chapter 85 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (11:40 14 July 2026)
 -   📖 Read chapter 97 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (11:34 14 July 2026)
--   📖 Plans to read [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (19:13 10 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
