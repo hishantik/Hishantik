@@ -197,8 +197,6 @@
 | [Getting Started with gaming on linux systems.](https://hishantik.vercel.app/blog/the-complete-guide-to-linux-gaming) | Sat May 30 2026 12:00 AM |
 | [My Development Journey So Far](https://hishantik.vercel.app/blog/my-dev-journey-so-far) | Thu May 28 2026 12:00 AM |
 | [Understanding TypeScript Generics](https://hishantik.vercel.app/blog/understanding-typescript-generics) | Mon May 25 2026 12:00 AM |
-| [A Complete Guide to Networking on Linux Systems for File and Data Sharing](https://dev.to/hishantik/a-complete-guide-to-networking-on-linux-systems-for-file-and-data-sharing-126f) | Thu May 07 2026 7:46 AM |
-| [Setting Up Termux for Web Development: A Complete Guide](https://dev.to/hishantik/setting-up-termux-for-web-development-a-complete-guide-jal) | Tue Feb 11 2025 12:43 PM |
 <!-- BLOG-POST-LIST:END -->
 
 </div>
