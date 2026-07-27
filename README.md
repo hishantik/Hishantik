@@ -265,11 +265,11 @@ No Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 80 of [Grand Blue Dreaming](https://anilist.co/manga/87395) (19:11 27 July 2026)
+-   📖 Read chapter 99 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (17:49 27 July 2026)
 -   📖 Read chapter 87 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (09:46 27 July 2026)
 -   📖 Read chapter 215 of [Reality Quest](https://anilist.co/manga/141705) (19:04 22 July 2026)
 -   📖 Read chapter 86 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (21:08 20 July 2026)
--   📖 Read chapter 98 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (20:09 20 July 2026)
--   📖 Read chapter 64 of [Barbarian's Adventure in a Fantasy World](https://anilist.co/manga/196874) (18:42 16 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
