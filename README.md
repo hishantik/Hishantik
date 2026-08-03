@@ -273,11 +273,11 @@ No AI Coding Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 100 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (19:49 03 August 2026)
 -   📖 Read chapter 88 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (13:57 03 August 2026)
 -   📖 Read chapter 65 of [Barbarian's Adventure in a Fantasy World](https://anilist.co/manga/196874) (05:15 31 July 2026)
 -   📖 Read chapter 216 of [Reality Quest](https://anilist.co/manga/141705) (19:44 29 July 2026)
 -   📖 Read chapter 80 - 86 of [Grand Blue Dreaming](https://anilist.co/manga/87395) (21:01 27 July 2026)
--   📖 Read chapter 99 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (17:49 27 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
