@@ -229,7 +229,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 102 of [Grand Blue Dreaming](https://anilist.co/manga/87395) (13:48 07 August 2026)
+-   📖 Read chapter 102 - 107 of [Grand Blue Dreaming](https://anilist.co/manga/87395) (15:44 07 August 2026)
 -   📖 Read chapter 66 of [Barbarian's Adventure in a Fantasy World](https://anilist.co/manga/196874) (05:40 07 August 2026)
 -   📖 Read chapter 87 - 101 of [Grand Blue Dreaming](https://anilist.co/manga/87395) (19:30 06 August 2026)
 -   📖 Read chapter 217 of [Reality Quest](https://anilist.co/manga/141705) (18:43 05 August 2026)
