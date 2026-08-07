@@ -229,7 +229,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 87 - 88 of [Grand Blue Dreaming](https://anilist.co/manga/87395) (05:24 06 August 2026)
+-   📖 Read chapter 87 - 101 of [Grand Blue Dreaming](https://anilist.co/manga/87395) (19:30 06 August 2026)
 -   📖 Read chapter 217 of [Reality Quest](https://anilist.co/manga/141705) (18:43 05 August 2026)
 -   📖 Read chapter 100 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (19:49 03 August 2026)
 -   📖 Read chapter 88 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (13:57 03 August 2026)
