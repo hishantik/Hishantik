@@ -273,11 +273,11 @@ No AI Coding Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 102 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (20:51 17 August 2026)
 -   📖 Plans to read [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (18:32 14 August 2026)
 -   📖 Read chapter 218 of [Reality Quest](https://anilist.co/manga/141705) (19:09 12 August 2026)
 -   📖 Read chapter 101 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (20:38 10 August 2026)
 -   📖 Read chapter 89 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (20:28 10 August 2026)
--   📖 Read chapter 102 - 111 of [Grand Blue Dreaming](https://anilist.co/manga/87395) (16:21 07 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
