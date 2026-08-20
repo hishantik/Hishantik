@@ -273,11 +273,11 @@ No AI Coding Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 182 of [The Infinite Mage](https://anilist.co/manga/159930) (13:14 20 August 2026)
 -   📖 Read chapter 326 of [Nano Machine](https://anilist.co/manga/120980) (19:15 19 August 2026)
 -   📖 Read chapter 219 of [Reality Quest](https://anilist.co/manga/141705) (19:06 19 August 2026)
 -   📖 Read chapter 2 - 3 of [The Hero Returns](https://anilist.co/manga/146017) (20:11 18 August 2026)
 -   📖 Plans to read [The Hero Returns](https://anilist.co/manga/146017) (18:33 18 August 2026)
--   📖 Read chapter 102 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (20:51 17 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
