@@ -273,11 +273,11 @@ No AI Coding Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 23 of [The Necromancer of the Renowned Swordmaster Family](https://anilist.co/manga/211928) (13:45 21 August 2026)
 -   📖 Plans to read [The Necromancer of the Renowned Swordmaster Family](https://anilist.co/manga/211928) (20:54 20 August 2026)
 -   📖 Read chapter 37 - 38 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (20:49 20 August 2026)
 -   📖 Read chapter 182 of [The Infinite Mage](https://anilist.co/manga/159930) (13:14 20 August 2026)
 -   📖 Read chapter 326 of [Nano Machine](https://anilist.co/manga/120980) (19:15 19 August 2026)
--   📖 Read chapter 219 of [Reality Quest](https://anilist.co/manga/141705) (19:06 19 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
