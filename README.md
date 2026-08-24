@@ -273,11 +273,11 @@ No AI Coding Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 135 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (12:31 24 August 2026)
 -   📖 Read chapter 1 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (16:46 23 August 2026)
 -   📖 Plans to read [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (16:45 23 August 2026)
 -   📖 Read chapter 176 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:42 23 August 2026)
 -   📖 Read chapter 156 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (16:42 23 August 2026)
--   📖 Read chapter 90 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (16:37 23 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
