@@ -273,11 +273,11 @@ No AI Coding Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 61 of [Chronicles of the Lazy Sovereign](https://anilist.co/manga/195914) (12:41 26 August 2026)
+-   📖 Read chapter 43 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (12:30 26 August 2026)
 -   📖 Read chapter 103 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (11:12 25 August 2026)
 -   📖 Read chapter 135 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (12:31 24 August 2026)
 -   📖 Read chapter 1 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (16:46 23 August 2026)
--   📖 Plans to read [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (16:45 23 August 2026)
--   📖 Read chapter 176 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:42 23 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
