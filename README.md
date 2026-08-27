@@ -273,11 +273,11 @@ No AI Coding Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Jungle Juice](https://anilist.co/manga/128882) (05:32 27 August 2026)
 -   📖 Read chapter 177 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:29 26 August 2026)
 -   📖 Read chapter 183 of [The Infinite Mage](https://anilist.co/manga/159930) (22:21 26 August 2026)
 -   📖 Read chapter 327 of [Nano Machine](https://anilist.co/manga/120980) (20:50 26 August 2026)
 -   📖 Read chapter 61 of [Chronicles of the Lazy Sovereign](https://anilist.co/manga/195914) (12:41 26 August 2026)
--   📖 Read chapter 43 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (12:30 26 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
