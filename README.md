@@ -273,11 +273,11 @@ No AI Coding Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 50 of [The Patron of Villains](https://anilist.co/manga/201009) (14:28 29 August 2026)
 -   📖 Read chapter 1 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (00:40 28 August 2026)
 -   📖 Plans to read [The Legendary Spearman Returns](https://anilist.co/manga/141479) (00:29 28 August 2026)
 -   📖 Read chapter 136 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (21:22 27 August 2026)
 -   📖 Read chapter 39 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (20:10 27 August 2026)
--   📖 Plans to read [Jungle Juice](https://anilist.co/manga/128882) (05:32 27 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
