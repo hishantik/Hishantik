@@ -273,11 +273,11 @@ No AI Coding Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 62 of [Chronicles of the Lazy Sovereign](https://anilist.co/manga/195914) (15:40 30 August 2026)
 -   📖 Read chapter 157 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (21:46 29 August 2026)
 -   📖 Read chapter 50 of [The Patron of Villains](https://anilist.co/manga/201009) (14:28 29 August 2026)
 -   📖 Read chapter 1 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (00:40 28 August 2026)
 -   📖 Plans to read [The Legendary Spearman Returns](https://anilist.co/manga/141479) (00:29 28 August 2026)
--   📖 Read chapter 136 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (21:22 27 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
