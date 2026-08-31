@@ -273,11 +273,11 @@ No AI Coding Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 137 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (10:11 31 August 2026)
 -   📖 Read chapter 24 of [The Necromancer of the Renowned Swordmaster Family](https://anilist.co/manga/211928) (19:44 30 August 2026)
 -   📖 Read chapter 91 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (19:35 30 August 2026)
 -   📖 Read chapter 62 of [Chronicles of the Lazy Sovereign](https://anilist.co/manga/195914) (15:40 30 August 2026)
 -   📖 Read chapter 157 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (21:46 29 August 2026)
--   📖 Read chapter 50 of [The Patron of Villains](https://anilist.co/manga/201009) (14:28 29 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
