@@ -273,11 +273,11 @@ No AI Coding Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 187 of [The Infinite Mage](https://anilist.co/manga/159930) (02:57 23 September 2026)
 -   📖 Read chapter 186 of [The Infinite Mage](https://anilist.co/manga/159930) (20:27 16 September 2026)
 -   📖 Read chapter 185 of [The Infinite Mage](https://anilist.co/manga/159930) (03:07 09 September 2026)
 -   📖 Read chapter 184 of [The Infinite Mage](https://anilist.co/manga/159930) (06:28 03 September 2026)
 -   📖 Read chapter 68 of [Barbarian's Adventure in a Fantasy World](https://anilist.co/manga/196874) (14:06 31 August 2026)
--   📖 Read chapter 137 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (10:11 31 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
