@@ -273,11 +273,11 @@ No AI Coding Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 189 of [The Infinite Mage](https://anilist.co/manga/159930) (16:44 07 October 2026)
+-   📖 Read chapter 189 of [The Infinite Mage](https://anilist.co/manga/159930) (16:44 07 October 2026)
 -   📖 Read chapter 188 of [The Infinite Mage](https://anilist.co/manga/159930) (20:50 29 September 2026)
 -   📖 Read chapter 187 of [The Infinite Mage](https://anilist.co/manga/159930) (02:57 23 September 2026)
 -   📖 Read chapter 186 of [The Infinite Mage](https://anilist.co/manga/159930) (20:27 16 September 2026)
--   📖 Read chapter 185 of [The Infinite Mage](https://anilist.co/manga/159930) (03:07 09 September 2026)
--   📖 Read chapter 184 of [The Infinite Mage](https://anilist.co/manga/159930) (06:28 03 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
