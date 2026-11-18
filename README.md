@@ -273,11 +273,11 @@ No AI Coding Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Aoashi Season 2](https://anilist.co/anime/191788) (19:47 18 November 2026)
+-   📺 Completed [Aoashi](https://anilist.co/anime/134732) (19:40 18 November 2026)
 -   📺 Watched episode 1 of [My Hero Academia](https://anilist.co/anime/21459) (09:27 14 November 2026)
 -   📖 Read chapter 190 of [The Infinite Mage](https://anilist.co/manga/159930) (19:36 14 October 2026)
 -   📖 Read chapter 189 of [The Infinite Mage](https://anilist.co/manga/159930) (16:44 07 October 2026)
--   📖 Read chapter 189 of [The Infinite Mage](https://anilist.co/manga/159930) (16:44 07 October 2026)
--   📖 Read chapter 188 of [The Infinite Mage](https://anilist.co/manga/159930) (20:50 29 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
