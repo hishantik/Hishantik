@@ -273,11 +273,11 @@ No AI Coding Activity Tracked This Week
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Dragon Ball Super: Beerus](https://anilist.co/anime/206814) (18:06 20 November 2026)
+-   📺 Watched episode 1 of [Death Note](https://anilist.co/anime/1535) (16:56 20 November 2026)
+-   📺 Watched episode 2 of [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anilist.co/anime/166240) (16:51 20 November 2026)
 -   📺 Watched episode 10 of [Witch Hat Atelier](https://anilist.co/anime/147105) (04:37 19 November 2026)
 -   📺 Watched episode 1 - 2 of [Aoashi Season 2](https://anilist.co/anime/191788) (21:53 18 November 2026)
--   📺 Completed [Aoashi](https://anilist.co/anime/134732) (19:40 18 November 2026)
--   📺 Watched episode 1 of [My Hero Academia](https://anilist.co/anime/21459) (09:27 14 November 2026)
--   📖 Read chapter 190 of [The Infinite Mage](https://anilist.co/manga/159930) (19:36 14 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 </div>
